@@ -8,8 +8,7 @@
 
 <div>
    <br>
-         
-  <a href="https:www.instagram.com/bruh_gmrs" target="_blank"><img align="center" alt="instagram" height="30" width="30"  src="https://cdn-icons-png.flaticon.com/128/1384/1384063.png">@bruh_gmrs</a>
+         <a href="[https:www.instagram.com/bruh_gmrs](https://www.instagram.com/bruh_gmrs/)" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/1384/1384063.png" target="_blank" heigth="40" width="40"></a>
   <span> &nbsp;&nbsp;&nbsp; </span>
   <a href="www.facebook.com/Bruh.Gmrs" target="_blank"><img align="center"  alt="facebook" height="30" width="30" src="https://cdn-icons-png.flaticon.com/128/2111/2111398.png">Bruna Guimarães</a>
   <span> &nbsp;&nbsp;&nbsp; </span>
