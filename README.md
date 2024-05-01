@@ -7,12 +7,13 @@
 
 
 <div>
-   <br>
-         <a href="https://instagram.com/bruh_gmrs" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/1384/1384063.png" heigth="40" width="40" target="_blank"></a>
-  <span> &nbsp;&nbsp;&nbsp; </span>
-  <a href="https://www.facebook.com/Bruh.Gmrs" target="_blank"><img alt="facebook" height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/2111/2111398.png" target="_blank"></a>
-  <span> &nbsp;&nbsp;&nbsp; </span>
-  <a href="https://www.linkedin.com/in/bruna-gmrs/" target="_blank"><img alt="linkedin" height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" target="_blank"></a>
+  **Minhas Redes Socias:**
+   <br> <br>
+      <a href="https://instagram.com/bruh_gmrs" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/1384/1384063.png" heigth="40" width="40"></a>
+        <span> &nbsp;&nbsp;&nbsp; </span>
+     <a href="https://www.facebook.com/Bruh.Gmrs" target="_blank"><img alt="facebook" height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/2111/2111398.png"></a>
+        <span> &nbsp;&nbsp;&nbsp; </span>
+     <a href="https://www.linkedin.com/in/bruna-gmrs/" target="_blank"><img alt="linkedin" height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png"></a>
   
 </div>
 
