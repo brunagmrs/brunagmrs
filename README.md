@@ -1,5 +1,24 @@
 ### Hello there 👋
 
+🔰 Me chamo Bruna, tenho 19 anos e sou iniciante na programação <br>
+📚 Estou cursando Análise e Desenvolvimento de Sistemas <br>
+🎯 Dia após dia busco alcançar meus objetivos na área de TI <br>
+🐍 Atualmente estou estudando a linguagem python 
+
+
+<div style="display: inline_block">
+   <br>
+         
+  <a href="https:www.instagram.com/bruh_gmrs" target="_blank" style="text-decoration: none; color: black;"><img align="center" alt="instagram" height="30" width="30"  src="https://cdn-icons-png.flaticon.com/128/1384/1384063.png">@bruh_gmrs</a>
+  <span> &nbsp;&nbsp;&nbsp; </span>
+  <a href="www.facebook.com/Bruh.Gmrs" target="_blank"><img align="center"  alt="facebook" height="30" width="30" src="https://cdn-icons-png.flaticon.com/128/2111/2111398.png">Bruna Guimarães</a>
+  <span> &nbsp;&nbsp;&nbsp; </span>
+  <a href="www.linkedin.com/in/bruna-gmrs" target="_blank"><img align="center" alt="linkedin" height="30" width="30" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png">Bruna Guimarães</a>
+  
+</div>
+
+<br>
+
 <div>
          <picture>
            <source
