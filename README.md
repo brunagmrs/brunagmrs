@@ -6,7 +6,7 @@
 🐍 Atualmente estou estudando a linguagem python 
 
 
-<div style="display: inline_block">
+<div>
    <br>
          
   <a href="https:www.instagram.com/bruh_gmrs" target="_blank"><img align="center" alt="instagram" height="30" width="30"  src="https://cdn-icons-png.flaticon.com/128/1384/1384063.png">@bruh_gmrs</a>
