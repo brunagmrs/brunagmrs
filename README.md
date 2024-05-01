@@ -1,9 +1,9 @@
-### Hello there 👋
+### Bruna Guimarães
 
-🔰 Me chamo Bruna, tenho 19 anos e sou iniciante na programação <br>
-📚 Estou cursando Análise e Desenvolvimento de Sistemas <br>
-🎯 Dia após dia busco alcançar meus objetivos na área de TI <br>
-🐍 Atualmente estou estudando a linguagem python <br><br>
+Me chamo Bruna, tenho 19 anos e sou iniciante na programação <br>
+Estou cursando Análise e Desenvolvimento de Sistemas <br>
+Dia após dia busco alcançar meus objetivos na área de TI <br>
+Atualmente estou estudando a linguagem python, mas também gosto muito da área de Front-End <br><br>
 
 
 **Links das Minhas Redes Sociais:**
@@ -19,19 +19,9 @@
 <br>
 
 <div>
-         <picture>
-           <source
-             srcset="https://github-readme-stats.vercel.app/api?username=brunagmrs&show_icons=true&theme=dracula"
-             media="(prefers-color-scheme: dark)"
-           />
-           <source
-             srcset="https://github-readme-stats.vercel.app/api?username=brunagmrs&show_icons=true"
-             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-           />
-           <img src="https://github-readme-stats.vercel.app/api?username=brunagmrs&show_icons=true" />
-         </picture>
+      <img height="220em" src="https://github-readme-stats.vercel.app/api?username=brunagmrs&show_icons=true&theme=dracula" />
+      <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunagmrs&theme=dracula"/>
 </div>
-
 
 <div style="display: inline_block">
          <br>
