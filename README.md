@@ -1,13 +1,9 @@
 ### Hello there 👋
 
-- 🌱 I’m currently learning Front-End
-- 📫 How to reach me: brunaguimaraes0809@gmail.com
-- 😄 Pronouns: ela/dela
-         
 <div>
          <picture>
            <source
-             srcset="https://github-readme-stats.vercel.app/api?username=brunagmrs&show_icons=true&theme=dark"
+             srcset="https://github-readme-stats.vercel.app/api?username=brunagmrs&show_icons=true&theme=dracula"
              media="(prefers-color-scheme: dark)"
            />
            <source
